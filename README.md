@@ -32,6 +32,7 @@ Matched network: 𝑆11=𝑆22=0 (no reflection)
 ## 4. Real-Time Measurement Tools
 # Vector Network Analyzer (VNA)
 VNAs are essential instruments that measure S-parameters. They send a known signal into the device under test (DUT) and measure the reflected and transmitted waves.
+
 ![image](https://github.com/user-attachments/assets/b80a0639-7875-4e6a-9676-c9b75ba353e8)
 ## 5. Real-Life Examples
 1.Antenna Design (S11 Parameter):
@@ -45,7 +46,7 @@ VNAs are essential instruments that measure S-parameters. They send a known sign
 3.Amplifier Gain and Stability:
     S-parameters are used to compute gain circles, stability circles, and noise figures in RF 
     amplifiers.
-## 1. Analog IC Tips 
+## 5.1. Analog IC Tips 
 
 ![image](https://github.com/user-attachments/assets/9ac3c67e-429d-4c8c-8515-664e51567cea)
 
@@ -55,7 +56,19 @@ VNAs are essential instruments that measure S-parameters. They send a known sign
 
 ## 6. Advancements and Current Research    
 ![Screenshot 2025-05-30 204709](https://github.com/user-attachments/assets/3f9e5967-8eab-418f-bc0d-150e14ca9296)
-## 7. Future Scope
+## 7. Advancements & Research
+Current Research Topics: Cryogenic 3D Cavities: Reduce thermal noise for high coherence.
+
+Hybrid Quantum Systems: Coupling optical and microwave cavities.
+
+Error Correction: Using cavities for logical qubit encoding.
+
+Quantum Networking: Using cavity photons to link quantum nodes.
+
+Research Labs & Projects: IBM Quantum, Google Sycamore, MIT Lincoln Labs, Yale QLab
+
+Nature Physics, PRX Quantum, and arXiv preprints show ongoing breakthroughs.
+## 8. Future Scope
  6G and THz Communication: Requires ultra-precise S-parameter measurements at terahertz frequencies.
 On-Chip Antennas & Photonic Circuits: S-parameters are being adapted for optoelectronic circuits.
 Digital Twin RF Modeling: Using real-time S-parameters in simulators to test virtual systems before fabrication.
@@ -63,7 +76,7 @@ Digital Twin RF Modeling: Using real-time S-parameters in simulators to test vir
 
 ![image](https://github.com/user-attachments/assets/4d617153-0c8b-4c18-b062-f4ee0dec67f9)
 
-## 8. Conclusion
+## 9. Conclusion
 S-parameters are an indispensable tool in the RF and microwave engineering domain. Their ability to handle high-frequency signals, analyze wave behavior, and model devices makes them essential for advancing communication technology, from 5G networks to quantum systems. Their widespread applicability, ongoing research integration, and future scalability ensure that S-parameters will remain a core concept in modern electronics and communication.
 
 
