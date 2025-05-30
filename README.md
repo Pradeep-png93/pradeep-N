@@ -2,10 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/1b20bc3c-119b-42e1-869a-3af24829b327)
 
+
 ## Abstract:
-Scattering parameters, commonly known as S-parameters, are fundamental tools for analyzing and designing high-frequency and radio frequency (RF) circuits. Unlike traditional circuit parameters such as impedance or admittance, S-parameters offer a frequency-domain representation of how RF signals are reflected and transmitted through multi-port networks, making them especially valuable at microwave and millimeter-wave frequencies. 
+ Scattering parameters, commonly known as S-parameters, are fundamental tools for analyzing and designing high-frequency and radio frequency (RF) circuits. Unlike traditional circuit parameters such as impedance or admittance, S-parameters offer a frequency-domain representation of how RF signals are reflected and transmitted through multi-port networks, making them especially valuable at microwave and millimeter-wave frequencies. 
 ## 1. Introduction
-In the world of high-frequency and RF (Radio Frequency) circuit design, traditional network parameters such as impedance (Z), admittance (Y), or hybrid (h) parameters are inadequate due to the complex nature of signal reflection and propagation at GHz and beyond. Scattering parameters (S-parameters) offer a robust alternative to characterize how RF signals behave in linear, high-frequency circuits. This report explores the fundamentals, mathematical formulations, applications, current research, and the future scope of S-parameters.
+ In the world of high-frequency and RF (Radio Frequency) circuit design, traditional network parameters such as impedance (Z), admittance (Y), or hybrid (h) parameters are inadequate due to the complex nature of signal reflection and propagation at GHz and beyond. Scattering parameters (S-parameters) offer a robust alternative to characterize how RF signals behave in linear, high-frequency circuits. This report explores the fundamentals, mathematical formulations, applications, current research, and the future scope of S-parameters.
 
 ## 2.Theory of scattering parameter
 Scattering parameters, or S-parameters, are a set of mathematical descriptors used to analyze electrical behavior in high-frequency and microwave circuits.
@@ -18,9 +19,8 @@ This makes them especially useful in RF, microwave, and optical systems where re
 
 ## 2.1 Fundamentals of Wave Behavior in Networks
 At microwave frequencies (typically above 1 GHz), the wavelength of the signal becomes comparable to the physical dimensions of the components. This leads to complex behavior involving:
-Signal reflection and transmission
-Standing waves
-Lossy propagation through media
+Signal reflection and transmissionfrom 5G networks to quantum systems. Their widespread applicability, ongoing research integration, and future scalability ensure that S-parameters will remain a core concept in modern electronics and communication.
+
 ## 2.2 Properties of S-parameters
 ```
 Reciprocal network: 𝑆12=𝑆21
@@ -45,7 +45,11 @@ VNAs are essential instruments that measure S-parameters. They send a known sign
 3.Amplifier Gain and Stability:
     S-parameters are used to compute gain circles, stability circles, and noise figures in RF 
     amplifiers.
-## 5.1 Measurement of S-parameter
+## 1. Analog IC Tips 
+
+![image](https://github.com/user-attachments/assets/9ac3c67e-429d-4c8c-8515-664e51567cea)
+
+## 5.2 Measurement of S-parameter
 
 ![image](https://github.com/user-attachments/assets/91c3f1d5-cccf-412d-a9bb-0af2b7d52baf)
 
