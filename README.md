@@ -14,6 +14,7 @@ Scattering parameters, or S-parameters, are a set of mathematical descriptors us
 Unlike conventional parameters (impedance, admittance) that rely on voltage and current, S-parameters describe how signals behave as traveling waves when they encounter discontinuities or changes in impedance.
 
 This makes them especially useful in RF, microwave, and optical systems where reflections, losses, and transmission characteristics must be precisely understood.
+
 ![Screenshot 2025-05-30 203438](https://github.com/user-attachments/assets/b3556bcd-ca5a-4fb4-ad31-ff4e072de173)
 ![Screenshot 2025-05-30 203905](https://github.com/user-attachments/assets/6c69d646-2380-445c-9b3a-ad4d475f570e)
 
